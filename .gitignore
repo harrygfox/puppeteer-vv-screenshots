@@ -1,0 +1,9 @@
+# Ignore dependencies
+node_modules/
+
+# Ignore screenshots and logs
+screenshots/
+screenshot_log.csv
+
+# Ignore system files
+.DS_Store
