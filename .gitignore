@@ -3,7 +3,11 @@ node_modules/
 
 # Ignore screenshots and logs
 screenshots/
+screenshots_public/
+screenshots_authenticated/
 screenshot_log.csv
+screenshot_log_authenticated.csv
+screenshot_log_public.csv
 
 # Ignore system files
 .DS_Store
